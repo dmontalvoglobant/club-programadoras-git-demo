@@ -3,7 +3,8 @@ import os
 opciones={
     1: ["Diego Montalvo","Programador, Viajar, Bicleta"],
     2: ["Programadora 1","Estudiar, Anime"],
-    3: ["Programadora 2","Dibujar, Cantar"]
+    3: ["Programadora 2","Dibujar, Cantar"],
+    4: ["Diego Ignacio Montalvo", "Programmer, Developer, Biker"]
 }
 def mostrar_integrantes():
     print("Las integrantes del club de programadoras 2023 son : \n")
